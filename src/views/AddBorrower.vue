@@ -1,7 +1,6 @@
 <template>
   <v-card class="my-4 mx-auto px-10 pb-10" max-width="35%" elevation="5">
     <v-form ref="form" v-model="valid" :lazy-validation="lazy">
-
       <v-row>
          <v-col cols="12" md="9">
               <h3 class="mb-15"></h3>

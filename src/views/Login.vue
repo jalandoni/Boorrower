@@ -7,12 +7,11 @@
           <v-img
             src="../assets/logo.png"
             aspect-ratio="1"
-            max-width="100"
+            max-width="200"
             max-height="200"
           ></v-img>
         </v-row>
         <v-spacer />
-
         <v-card  class="mx-auto" color="rgb(255, 255, 255, 0.2)" max-width="500px" raised>
            <v-toolbar
                 color="rgb(255, 255, 255, 0.2)"
